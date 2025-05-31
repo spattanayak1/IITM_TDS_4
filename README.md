@@ -9,7 +9,6 @@ A virtual Teaching Assistant API that automatically answers student questions ba
 - Automatic answer generation based on TDS course content and Discourse data
 - Returns structured JSON responses with answers and relevant links
 
-
 ## License
 
 MIT License - see LICENSE file for details.
