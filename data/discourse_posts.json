@@ -1,0 +1,162 @@
+[
+  {
+    "id": 163147,
+    "title": "TDS IITM Certified Books",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-iitm-certified-books",
+    "category": "course_resources",
+    "posts": [
+      {
+        "id": 579338,
+        "username": "Divya1",
+        "content": "Can anyone forward the specified links of the books(iitm certified(logo)) or pdf's for preparation?",
+        "created_at": "2025-01-13T15:40:50.279Z"
+      },
+      {
+        "id": 579586,
+        "username": "s.anand",
+        "content": "There are no IITM certified books nor PDFs for Tools in Data Science. The site https://tds.s-anand.net/ is the reference. We update the content regularly. You might want to track the changes for recent updates.",
+        "created_at": "2025-01-14T09:48:43.870Z"
+      }
+    ],
+    "keywords": ["books", "pdfs", "reference", "course materials", "tds.s-anand.net"],
+    "answer_summary": "There are no IITM certified books for TDS. The official reference is https://tds.s-anand.net/ which is updated regularly."
+  },
+  {
+    "id": 167878,
+    "title": "About TDS Course - Week 6 Assignment",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-tds-course",
+    "category": "assignments",
+    "posts": [
+      {
+        "id": 597719,
+        "username": "22f2000635",
+        "content": "I have not receive week 6 assignment. Please help",
+        "created_at": "2025-02-21T06:45:31.229Z"
+      },
+      {
+        "id": 597814,
+        "username": "Yogesh1",
+        "content": "Yes. Week 6 and Project 2 should be released as soon as possible.",
+        "created_at": "2025-02-21T09:41:40.382Z"
+      },
+      {
+        "id": 597831,
+        "username": "carlton",
+        "content": "Not ready yet. We will release it soon.",
+        "created_at": "2025-02-21T10:18:09.293Z"
+      }
+    ],
+    "keywords": ["week 6", "assignment", "project 2", "release", "not ready"],
+    "answer_summary": "Week 6 assignments and Project 2 releases depend on course schedule. Check course announcements for updates."
+  },
+  {
+    "id": 168943,
+    "title": "Solving ROE Realtime",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/solving-roe-realtime",
+    "category": "roe_exam",
+    "posts": [
+      {
+        "id": 602167,
+        "username": "23f1002382",
+        "content": "I'll try to post whatever i solve lol XD",
+        "created_at": "2025-03-02T07:30:53.879Z"
+      },
+      {
+        "id": 602183,
+        "username": "23f1002382",
+        "content": "Q 7 LLM Embeddings (1 mark): SecurePay fraud detection with text embeddings. ANSWER: {\"model\": \"text-embedding-3-small\", \"input\": [\"Dear user, please verify your transaction code 33692 sent to roe-23f1002382@ds.study.iitm.ac.in\", \"Dear user, please verify your transaction code 66801 sent to roe-23f1002382@ds.study.iitm.ac.in\"]}",
+        "created_at": "2025-03-02T08:04:22.864Z"
+      },
+      {
+        "id": 602184,
+        "username": "23f1002382",
+        "content": "Q 6 Move and rename files (1 mark): Use mv to move files and rename replacing digits. Commands: unzip, mkdir empty_folder, find -exec mv, tr '0123456789' '1234567890'",
+        "created_at": "2025-03-02T08:05:59.474Z"
+      }
+    ],
+    "keywords": ["roe", "exam", "embeddings", "file operations", "mv command", "text-embedding-3-small"],
+    "answer_summary": "ROE exam includes practical questions on LLM embeddings and file operations using command line tools."
+  },
+  {
+    "id": 166891,
+    "title": "Regarding GitHub Mail for Project",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-github-mail-for-project",
+    "category": "projects",
+    "posts": [
+      {
+        "id": 594226,
+        "username": "23f1001236",
+        "content": "Is it important to use an IITM mail ID in GitHub for the project?",
+        "created_at": "2025-02-13T02:19:53.249Z"
+      },
+      {
+        "id": 594777,
+        "username": "carlton",
+        "content": "Currently we do not have any explicit policy regarding requiring IITM email as the github profile name or the github repo owner. We DO however require you to use your IITM email when submitting the project submission form. We are clarifying with operations at the moment if this arrangement satisfies their requirements.",
+        "created_at": "2025-02-14T05:12:27.093Z"
+      }
+    ],
+    "keywords": ["github", "email", "iitm", "project", "submission", "requirements"],
+    "answer_summary": "No explicit policy requires IITM email for GitHub profile, but IITM email must be used in project submission form."
+  },
+  {
+    "id": 99838,
+    "title": "ROE Exam Purpose",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam",
+    "category": "roe_exam",
+    "posts": [
+      {
+        "id": 603547,
+        "username": "Learner_HS",
+        "content": "I check this term paper sir, I was written \"This question paper is hackable\". What that meant?",
+        "created_at": "2025-03-05T07:10:12.427Z"
+      }
+    ],
+    "keywords": ["roe", "exam", "hackable", "purpose", "difficult"],
+    "answer_summary": "ROE exam is designed to be challenging and test practical skills. The term 'hackable' refers to its open-internet nature."
+  },
+  {
+    "id": 163765,
+    "title": "Score Keeps Resetting to 0",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0",
+    "category": "technical_issues",
+    "posts": [
+      {
+        "id": 580835,
+        "username": "24f2006531",
+        "content": "Despite saving multiple times, my score keeps resetting to zero. Should I refill the answers for all the questions before saving again? Could this issue also be caused by accessing the assignment from multiple devices?",
+        "created_at": "2025-01-17T06:30:48.816Z"
+      },
+      {
+        "id": 580844,
+        "username": "carlton",
+        "content": "We are aware of the issue and @s.anand is working on a solution. The temporary fix is to just reenter all the answers before hitting the Save button. The last submission is always saved. So please make sure that your last submission contains all the answers for all the questions.",
+        "created_at": "2025-01-17T06:42:42.190Z"
+      },
+      {
+        "id": 581983,
+        "username": "s.anand",
+        "content": "Please check this fix. It may solve your problem. I added a \"Recent saves\" feature. This will show the time and score for the last 3 times you saved. You can load from any of these. Do remember to click the \"Check\" button to calculate your score. That is not automatic.",
+        "created_at": "2025-01-19T12:23:34.273Z"
+      }
+    ],
+    "keywords": ["score", "resetting", "saving", "technical issue", "recent saves", "fix"],
+    "answer_summary": "Score resetting issue was fixed with 'Recent saves' feature. Always reenter all answers before saving and click 'Check' to calculate score."
+  },
+  {
+    "id": 166647,
+    "title": "PDF to Markdown Conversion Doubt",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/i-have-doubt-in-q10",
+    "category": "assignments",
+    "posts": [
+      {
+        "id": 592777,
+        "username": "23f1001806",
+        "content": "I have doubt in question 10 to convert pdf to markdown. I am not getting correct markdown",
+        "created_at": "2025-02-09T14:51:52.566Z"
+      }
+    ],
+    "keywords": ["pdf", "markdown", "conversion", "question 10", "doubt"],
+    "answer_summary": "For PDF to Markdown conversion issues, refer to course materials on data preparation techniques and tools like Tabula."
+  }
+]

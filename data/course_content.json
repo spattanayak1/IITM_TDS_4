@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Development Tools",
+    "section": "Development Tools",
+    "content": "Tools in Data Science course covers: Editor (VS Code), AI Code Editors (GitHub Copilot), Python tools (uv), JavaScript tools (npx), Unicode, Browser DevTools, CSS Selectors, JSON, Terminal (Bash), AI Terminal Tools (llm), Spreadsheet (Excel, Google Sheets), Database (SQLite), Version Control (Git, GitHub).",
+    "keywords": ["vs code", "github copilot", "python", "javascript", "terminal", "bash", "excel", "sqlite", "git", "github"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Deployment Tools",
+    "section": "Deployment Tools", 
+    "content": "Deployment Tools covered: Markdown, Images Compression, Static hosting (GitHub Pages), Notebooks (Google Colab), Serverless hosting (Vercel), CI/CD (GitHub Actions), Containers (Docker, Podman), DevContainers (GitHub Codespaces), Tunneling (ngrok), CORS, REST APIs, Web Framework (FastAPI), Authentication (Google Auth), Local LLMs (Ollama).",
+    "keywords": ["markdown", "github pages", "google colab", "vercel", "github actions", "docker", "podman", "fastapi", "ollama"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Large Language Models",
+    "section": "Large Language Models",
+    "content": "LLM topics: Prompt engineering, TDS TA Instructions, TDS GPT Reviewer, LLM Sentiment Analysis, LLM Text Extraction, Base 64 Encoding, Vision Models, Embeddings, Multimodal Embeddings, Topic modeling, Vector databases, RAG with CLI, Hybrid RAG with TypeSense, Function Calling, LLM Agents, LLM Image Generation, LLM Speech, LLM Evals, Project 1.",
+    "keywords": ["prompt engineering", "embeddings", "vision models", "rag", "vector databases", "llm agents", "function calling"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Data Sourcing",
+    "section": "Data Sourcing",
+    "content": "Data Sourcing methods: Scraping with Excel, Scraping with Google Sheets, Crawling with CLI, BBC Weather API with Python, Scraping IMDb with JavaScript, Nominatim API with Python, Wikipedia Data with Python, Scraping PDFs with Tabula, Convert PDFs to Markdown, Convert HTML to Markdown, LLM Website Scraping, LLM Video Screen-Scraping, Web Automation with Playwright, Scheduled Scraping with GitHub Actions.",
+    "keywords": ["scraping", "apis", "python", "javascript", "playwright", "tabula", "github actions"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Data Preparation",
+    "section": "Data Preparation",
+    "content": "Data Preparation techniques: Data Cleansing in Excel, Data Transformation in Excel, Splitting Text in Excel, Data Aggregation in Excel, Data Preparation in Shell, Data Preparation in Editor, Cleaning Data with OpenRefine, Profiling Data with Python, Parsing JSON, Data Transformation with dbt, Transforming Images, Extracting Audio and Transcripts.",
+    "keywords": ["data cleansing", "excel", "openrefine", "json", "dbt", "shell"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Data Analysis",
+    "section": "Data Analysis",
+    "content": "Data Analysis tools: Correlation with Excel, Regression with Excel, Forecasting with Excel, Outlier Detection with Excel, Data Analysis with Python, Data Analysis with SQL, Data Analysis with Datasette, Data Analysis with DuckDB, Data Analysis with ChatGPT, Geospatial Analysis with Excel/Python/QGIS, Network Analysis in Python.",
+    "keywords": ["correlation", "regression", "forecasting", "sql", "datasette", "duckdb", "chatgpt", "geospatial", "qgis"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Overview - Data Visualization",
+    "section": "Data Visualization",
+    "content": "Data Visualization methods: Visualizing Forecasts with Excel, Animated Data with PowerPoint/Flourish, Network Data with Kumu, Charts with Excel, Data Visualization with Seaborn/ChatGPT, Actor Network Visualization, RAWgraphs, Data Storytelling, Narratives with LLMs, Interactive Notebooks (Marimo), HTML Slides (RevealJS), Markdown Presentations (Marp).",
+    "keywords": ["visualization", "excel", "powerpoint", "flourish", "seaborn", "rawgraphs", "marimo", "revealjs", "marp"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Course Philosophy",
+    "section": "Course Philosophy",
+    "content": "TDS is a practical diploma level data science course at IIT Madras teaching popular tools for sourcing, transforming, analyzing data, creating visual stories, and deploying in production. The course is designed to be hard and covers real-world tools that make you more productive than peers. Programming skills in Python, JavaScript, HTML, HTTP, Excel are prerequisites.",
+    "keywords": ["iit madras", "diploma", "practical", "real-world", "productive", "prerequisites"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Learning Philosophy",
+    "section": "Learning Philosophy",
+    "content": "TDS encourages learning by sharing - students CAN copy from friends, work in groups, share code in projects, assignments, and exams (except final end-term). This mirrors real-life teamwork. Students should understand what they copy and teach what they learn.",
+    "keywords": ["sharing", "copying", "teamwork", "collaboration", "understanding", "teaching"]
+  },
+  {
+    "url": "https://tds.s-anand.net/#/2025-01",
+    "title": "TDS Evaluation Schedule Jan 2025",
+    "section": "Evaluation Schedule",
+    "content": "Evaluations: Best 4 out of 7 GAs (15%), Project 1 (20%), Project 2 (20%), ROE (20%), Final end-term (25%). GA1-GA7 from Dec 2024 to Mar 2025, Project 1 deadline 16 Feb 2025, Project 2 deadline 31 Mar 2025, ROE 02 Mar 2025, Final 13 Apr 2025. Most exams are open Internet except final end-term.",
+    "keywords": ["evaluation", "graded assignments", "projects", "roe", "end-term", "open internet", "schedule"]
+  }
+]
