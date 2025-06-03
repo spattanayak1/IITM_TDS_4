@@ -71,7 +71,7 @@ curl "https://your-app-url.com/api/" \
 ```
 ├── app.py                 # Main FastAPI application
 ├── scraper/
-│   ├── discourse_scraper.py  # Discourse and Course Content data scraper
+│   ├── scraper.py  # Discourse and Course Content data scraper
 ├── data/
 │   ├── discourse_posts.json # Scraped Discourse data
 │   └── course_content.json  # Course content data
