@@ -42,10 +42,8 @@ async def root():
     """
     return {
         "message": "TDS Virtual TA API",
-        "version": "1.0.0",
         "endpoints": {
             "POST /api/": "Submit a question to get an answer",
-            "GET /health": "Health check endpoint"
         }
     }
 
