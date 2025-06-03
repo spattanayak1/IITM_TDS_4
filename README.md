@@ -1,13 +1,14 @@
-# TDS Virtual TA
+# TDS Virtual Teaching Assistant
 
-A virtual Teaching Assistant API that automatically answers student questions based on TDS course content and Discourse posts.
+This project develops a Virtual Teaching Assistant API tailored for the Tools in Data Science (TDS) course at IIT Madras. The API intelligently responds to student queries by leveraging course materials and historical discussions from the Discourse forum, enabling quick, accurate, and automated support for learners.
 
 ## Features
 
-- REST API endpoint that accepts POST requests with student questions
-- Support for base64 encoded image attachments
-- Automatic answer generation based on TDS course content and Discourse data
-- Returns structured JSON responses with answers and relevant links
+- ✅ **FastAPI REST endpoint** at `/api/` accepting POST requests
+- ✅ **JSON request/response format** with question and optional base64 image
+- ✅ **Structured response** with answer and relevant links
+- ✅ **Course content integration** with TDS-specific knowledge
+- ✅ **Discourse post simulation** with realistic Q&A data
 
 ## Setup
 
